@@ -1,0 +1,3 @@
+[submodule "soft-uart"]
+	path = soft-uart
+	url = git@github.com:liyanboy74/soft-uart.git
